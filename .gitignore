@@ -1,2 +1,5 @@
 ecommerce/
 .env
+.venv
+train_preprocessed.npz
+val_preprocessed.npz
