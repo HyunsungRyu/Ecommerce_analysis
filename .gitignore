@@ -3,3 +3,4 @@ ecommerce/
 .venv
 train_preprocessed.npz
 val_preprocessed.npz
+custom_session_sample_oct_nov_log_dict_encoded_sampled.csv
